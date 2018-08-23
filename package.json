@@ -4,7 +4,7 @@
   "version": "2.13.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/plentymarkets/plugin-ceres.git"
+    "url": "https://github.com/curlio/plugin-ceres.git"
   },
   "scripts": {
     "build": "gulp",
